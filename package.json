@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "minify-html": "html-minifier --input-dir ./src --output-dir ./dist --collapse-whitespace"
+  },
+  "devDependencies": {
+    "html-minifier": "^4.0.0",
+    "prettier": "3.1.0"
+  }
+}
